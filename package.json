@@ -1,0 +1,16 @@
+{
+  "name": "clases",
+  "version": "1.0.0",
+  "description": "tarea pwii",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "introduccion",
+    "pwii"
+  ],
+  "author": "Carola",
+  "license": "ISC"
+}
